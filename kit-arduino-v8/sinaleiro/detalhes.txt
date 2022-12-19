@@ -1,0 +1,18 @@
+OQ É:
+Uma simulação de sinaleiro envolvendo os carros e pedestres. Enquanto o sinal para os carros for vermelho,
+o para pedestres se acende verde, já em qualquer outra circunstância o sinal de pedestres se acende vermelho
+
+ITENS:
+2 leds vermelhos
+2 leds verdes
+1 led amarelo
+5 resistores 300 ohms
+6 jumpers (1 de alimentação para cada led e 1 para o gnd)
+
+PORTAS:
+led vermelho sinal para carros - 13
+led amarelo sinal para carros - 12
+led verde sinal para carros - 11
+
+led vermelho sinal para pedestres - 10
+led verde sinal para pedestres - 9
