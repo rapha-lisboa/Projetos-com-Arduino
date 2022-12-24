@@ -1,0 +1,14 @@
+OQ É:
+Um controlador de frequencia, o buzzer apita um som em uma frequencia determinada inicialmente como 2000 Hz, quando o botão da esquerda
+é apertado a frequencia diminui 300 Hz, quando o botão da direita é apertado a frequencia aumenta 300 Hz
+
+ITENS:
+2 push buttons
+1 buzzer
+2 resistores (10K ohms)
+8 jumpers
+
+PORTAS:
+botão 1 - 8
+botão 2 - 9
+buzzer - 10
