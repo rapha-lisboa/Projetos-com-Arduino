@@ -1,0 +1,20 @@
+OQ É:
+Uma simulação de piano, com 3 teclas. Cada botão toca uma nota: dó, ré, mi e juntamente com cada nota um led se acende
+
+ITENS:
+3 botões
+1 buzzer
+3 leds
+3 resistores (300 ohms)
+11 jumpers
+
+PORTAS:
+led vermelho - 3
+led amarelo - 2
+led verde  - 4
+
+buzzer - 8
+
+botão 1 - 13
+botão 2 - 12
+botão 3 - 11
